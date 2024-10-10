@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkattack_data_model_docs=self.webpackChunkattack_data_model_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"ATT&CK v16 - October 2024","permalink":"/docusaurus/blog/known-issues","unlisted":false,"date":"2024-10-10T14:45:27.000Z"}]}')}}]);
