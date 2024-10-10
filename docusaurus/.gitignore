@@ -7,8 +7,6 @@
 # Generated files
 .docusaurus
 .cache-loader
-docs/*/
-!docs/overview.md
 
 # Misc
 .DS_Store
