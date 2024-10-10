@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkattack_data_model_docs=self.webpackChunkattack_data_model_docs||[]).push([[835],{6144:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

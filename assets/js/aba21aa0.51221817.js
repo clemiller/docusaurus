@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkattack_data_model_docs=self.webpackChunkattack_data_model_docs||[]).push([[742],{7093:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
